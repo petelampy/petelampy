@@ -2,6 +2,7 @@
 
 My name is Peter Lampard, I'm a current second year BSc Software Engineering student. I am also active committee for NTU's [Developer's Society](https://github.com/NTUDevSoc).
 
+- ⚡ Incoming Placement Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
 - 🔭 I’m currently working on the **DevSoc Discord Bot** and **[My Personal Website](https://lampard.dev)**
 - 📫 How to reach me: **[Twitter](https://twitter.com/petelampy)** or **[LinkedIn](https://linkedin.com/in/petelampy)**
 
