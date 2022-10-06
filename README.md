@@ -2,8 +2,9 @@
 
 My name is Peter Lampard, I'm a BSc Software Engineering student currently on placement with Pinewood Technologies.
 
-- ⚡ Placement Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
-- ⚡ Senior Committee for **[NTU DevSoc](https://devsoc.co.uk/)**
+- ⚡ Part Time Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
+- ⚡ CERT Mentor & Student Ambassador for **[Nottingham Trent University](https://www.ntu.ac.uk/)**
+- ⚡ Former Senior Committee for **[NTU DevSoc](https://devsoc.co.uk/)**
 - 🔭 I’m currently working on **[My Personal Website](https://lampard.dev)**
 - 📫 How to reach me: **[Twitter](https://twitter.com/petelampy)** or **[LinkedIn](https://linkedin.com/in/petelampy)**
 
