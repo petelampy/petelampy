@@ -1,6 +1,6 @@
 ### Hello there (General Kenobi) 👋
 
-My name is Peter Lampard, I'm a BSc Software Engineering student currently on placement with Pinewood Technologies.
+My name is Peter Lampard, I'm a BSc Software Engineering student at Nottingham Trent University!
 
 - ⚡ Part Time Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
 - ⚡ CERT Mentor & Student Ambassador for **[Nottingham Trent University](https://www.ntu.ac.uk/)**
