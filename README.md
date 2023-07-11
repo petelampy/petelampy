@@ -1,11 +1,11 @@
 ### Hello there (General Kenobi) 👋
 
-My name is Peter Lampard, I'm a BSc Software Engineering student at Nottingham Trent University!
+My name is Peter Lampard, Welcome to my profile!
 
 - ⚡ Part Time Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
-- ⚡ CERT Mentor & Student Ambassador for **[Nottingham Trent University](https://www.ntu.ac.uk/)**
+- ⚡ **[Nottingham Trent University](https://www.ntu.ac.uk/)** Software Engineering Graduate 
 - ⚡ Former Senior Committee for **[NTU DevSoc](https://devsoc.co.uk/)**
-- 🔭 I’m currently working on **[My Personal Website](https://lampard.dev)**
+- 🔭 I’m currently working on the **[Pinewood DMS](https://www.pinewood.co.uk/overview/)**
 - 📫 How to reach me: **[Twitter](https://twitter.com/petelampy)** or **[LinkedIn](https://linkedin.com/in/petelampy)**
 
 ### My Stats
