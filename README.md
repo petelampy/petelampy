@@ -2,7 +2,7 @@
 
 My name is Peter Lampard, Welcome to my profile!
 
-- ⚡ Graduate Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
+- ⚡ Software Developer at **[Pinewood Technologies](https://www.pinewood.co.uk/)**
 - ⚡ **[Nottingham Trent University](https://www.ntu.ac.uk/)** Software Engineering Graduate 
 - ⚡ Former Senior Committee for **[NTU DevSoc](https://devsoc.co.uk/)**
 - 🔭 I’m currently working on the **[Pinewood DMS](https://www.pinewood.co.uk/overview/)**
