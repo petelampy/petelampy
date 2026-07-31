@@ -16,6 +16,3 @@ My name is Peter Lampard, Welcome to my profile!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### My Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=petelampy&show_icons=true&theme=dark&count_private=true&custom_title=GitHub%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
