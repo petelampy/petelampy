@@ -2,11 +2,11 @@
 
 My name is Peter Lampard, Welcome to my profile!
 
-- ⚡ Software Developer at **[Pinewood.AI](https://www.pinewood.ai/)**
+- ⚡ Senior Software Developer at **[Pinewood.AI](https://www.pinewood.ai/)**
 - ⚡ **[Nottingham Trent University](https://www.ntu.ac.uk/)** Software Engineering Graduate 
 - ⚡ Former Senior Committee for **[NTU DevSoc](https://devsoc.co.uk/)**
 - 🔭 I’m currently working on the Pinewood DMS
-- 📫 How to reach me: **[Twitter](https://twitter.com/petelampy)** or **[LinkedIn](https://linkedin.com/in/petelampy)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/petelampy)**
 
 ### Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
